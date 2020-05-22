@@ -1,19 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c5d4412-d0d5-401f-a336-35377293841d" name="Default Changelist" comment="" />
+    <list default="true" id="7c5d4412-d0d5-401f-a336-35377293841d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test Results - ORDSTests_getOneEmployee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git.ignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spartan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pojos/Spartan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/test/day2/ORDSTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/test/day2/SpartanTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/test/day3/ExchangeRatesAPITests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/test/day3/ORDSTestsDay3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/test/day4/ORDSTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/test/day5/Spartan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/test/utilities/ConfigurationReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1c2azfHFB6qO7px9ntjcAah7T33" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Spartan">
+    <configuration name="Spartan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.automation.test.day5.Spartan" />
+      <module name="fall-2019-online-rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.test.day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ORDSTest4.countryID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fall-2019-online-rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.test.day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.test.day4" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.test.day4.ORDSTest4" />
+      <option name="METHOD_NAME" value="countryID" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ORDSTest4.employeesTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fall-2019-online-rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.test.day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.test.day4" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.test.day4.ORDSTest4" />
+      <option name="METHOD_NAME" value="employeesTest1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ORDSTest4.getEmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fall-2019-online-rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.test.day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.test.day4" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.test.day4.ORDSTest4" />
+      <option name="METHOD_NAME" value="getEmployeeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ORDSTestsDay3.verifyEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fall-2019-online-rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.test.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.test.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.test.day3.ORDSTestsDay3" />
+      <option name="METHOD_NAME" value="verifyEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Spartan" />
+        <item itemvalue="JUnit.ORDSTest4.getEmployeeTest" />
+        <item itemvalue="JUnit.ORDSTest4.countryID" />
+        <item itemvalue="JUnit.ORDSTest4.employeesTest1" />
+        <item itemvalue="JUnit.ORDSTestsDay3.verifyEmployee" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,5 +155,41 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="128" key="#Project_Structure/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1589729452661" />
+    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1590108270910">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1590108270910" />
+    <state x="408" y="198" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589931078881">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="408" y="198" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1589931078881" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1590104769054">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1590104769054" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1589925272070" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1590104769050">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.center/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1590104769050" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1589925272067" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1590104769048">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.left/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1590104769048" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1589925272066" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1590104769053">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.right/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1590104769053" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1589925272069" />
+    <state x="191" y="483" key="com.intellij.ide.util.TipDialog" timestamp="1589931116519">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="191" y="483" key="com.intellij.ide.util.TipDialog/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1589931116519" />
+    <state x="538" y="297" key="export.test.results" timestamp="1589744156318">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="538" y="297" key="export.test.results/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1589744156318" />
   </component>
 </project>
